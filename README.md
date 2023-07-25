@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/elyasamini01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elyasamini01" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17226417/elyas-amini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17226417/elyas-amini" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/elyas._.amini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/elyas._.amini/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17226417/elyas-amini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17226417/elyas-amini" height="30" width="40" /></a>
+<a href="https://www.instagram.com/elyas._.amini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/elyas._.amini/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
