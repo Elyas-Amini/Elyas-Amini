@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Back-End developer from Iran</h3>
 
 - 🔭 I’m currently working on **EasyMicroservices**
-
+- 📫 How to reach me **elyas.amini.fs@gmail.com**
 - 🌱 I’m currently learning **C# asp.net Core**
 
 <h3 align="left">Connect with me:</h3>
